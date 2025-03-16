@@ -6,7 +6,7 @@ Las funciones son eventos activados por el 'click' de los botones.
 ## Funcion agregarAmigos
 Esta función es la encargada de validar los datos que se ingresan y los añade a un arreglo,
 una vez añadido el nombre al arreglo, se recorre y por cada elemento se crea una etiqueta HTML,
-de tipo <li> la cual se encarga de ir colocando el nombre de la persona.
+de tipo "<li>" la cual se encarga de ir colocando el nombre de la persona.
 ## Función sortearAmigos
 En esta función se captura la longitud del arreglo.
 Una vez se tiene la longitud, se utiliza la libreria math de javascript, con la que se genera un número random.
